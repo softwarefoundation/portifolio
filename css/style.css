@@ -1,0 +1,28 @@
+body {
+    padding-top: 56px; /* Ajuste para o navbar fixo */
+}
+
+section {
+    padding: 60px 0;
+}
+
+.navbar {
+    transition: all 0.3s;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.img-fluid {
+	max-width: 40%;
+}
